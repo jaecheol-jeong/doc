@@ -1,7 +1,7 @@
 
 ## Golang Read Excel File
 
-![golang-excel](/images/golang-excel.png "excel read")
+![golang-excel](/doc.github.io/images/golang-excel.png "excel read")
 
 <pre>
 package main
@@ -31,4 +31,5 @@ func main() {
 </pre>
 
 > 1. import github.com/tealeg/xlsx
-> 2. ~~
+> 2. Read ~~~
+
