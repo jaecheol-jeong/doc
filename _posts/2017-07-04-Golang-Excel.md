@@ -3,7 +3,7 @@
 
 ![golang-excel](/doc.github.io/images/golang-excel.png "excel read")
 
-<pre>
+```go
 package main
 
 import (
@@ -28,7 +28,8 @@ func main() {
 		}
 	}
 }
-</pre>
+```
+
 
 > 1. import github.com/tealeg/xlsx
 > 2. Read ~~~
