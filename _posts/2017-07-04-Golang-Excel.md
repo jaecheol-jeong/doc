@@ -1,7 +1,7 @@
 
 ## Golang Read Excel File
 
-![golang-excel](/doc/images/golang-excel.png "excel read")
+![golang-excel](/doc.github.io/images/golang-excel.png "excel read")
 
 ```go
 package main
