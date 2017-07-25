@@ -113,6 +113,6 @@ func lastDay(year int, month int) int {
 }
 ```
 
-##Result
+## Result
 
 ![](https://jaecheol-jeong.github.io/doc/images/calendar.png "calendar")
