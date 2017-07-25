@@ -1,8 +1,8 @@
-## golang Console Caledar
+## golang Console Calendar
 
 `#go` , `#golang`, `#calendar`
 
-#소스
+#source
 ```go
 package main
 
@@ -113,6 +113,6 @@ func lastDay(year int, month int) int {
 }
 ```
 
-결과
+##Result
 
 ![](https://jaecheol-jeong.github.io/doc/images/calendar.png "calendar")
