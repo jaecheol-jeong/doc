@@ -58,7 +58,7 @@ func showCalendar(c Cal) {
 }
 
 func showHeader() {
-	fmt.Printf("%-5s%-5s%-5s%-5s%-5s%-5s%-5s", "SUN", "MON", "TUE", "WEB", "THU", "FRI", "SAT")
+	fmt.Printf("%-5s%-5s%-5s%-5s%-5s%-5s%-5s", "SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT")
 	fmt.Printf("\n")
 	fmt.Printf("%-5s", "---")
 	fmt.Printf("%-5s", "---")
